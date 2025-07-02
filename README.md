@@ -1,4 +1,4 @@
-# Kim_CB
+
 ## "Data Tells Stories, Code Brings Them to Life"
 Full-stack developer(🤣) specializing in data-driven web applications and interactive visualization dashboards.
 Transforming complex datasets into intuitive user experiences through modern web frameworks and statistical analysis.
